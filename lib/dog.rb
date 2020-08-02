@@ -10,7 +10,7 @@ class Dog
   end
 
   def bark
-    pus "woof!"
+    puts "woof!"
   end
 
 end
